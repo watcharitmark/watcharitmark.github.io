@@ -4,7 +4,7 @@
       "url": "https://raw.githubusercontent.com/watcharitmark/Mark/master/_inf_ปริมาณมูลฝอย61.csv"
   },
   
-  "title": "ปริมาณมูลฝอยปี61",
+  "title": "ปริมาณขยะมูลฝอยปี 2561",
 
 
   "height": {"step": 15},
@@ -18,7 +18,7 @@
     "x": {
       "field": "Average",
       "type": "quantitative",
-      "axis": {"title": "ค่าเฉลี่ยปริมาณมูลฝอยในปี2561"}
+      "axis": {"title": "ค่าเฉลี่ยปริมาณมูลฝอยตั้งแต่เดือน ตุลาคม ปี 2560 ถึง กันยายน ปี 2561"}
     },
     "color":{"field":"dname",
             "title":"เขต"},
